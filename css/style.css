@@ -1,0 +1,64 @@
+h1 {
+    color: red;
+}
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.navItem {
+    display: inline-block;
+    padding: 15px;
+    background-color: darkgray;
+}
+
+nav {
+    background-color: lightgray;
+}
+
+.sidebar {
+    height: 700px;
+    width: 29%;
+    float: left;
+}
+
+.contentArea {
+    height: 700px;
+    width: 70%;
+    float: left;
+}
+
+.petImage {
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+
+.petStats {
+    height: 70%;
+    padding: 30px;
+}
+
+.mainImage {
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.contentImage {
+    float: left;
+    margin-right: 20px;
+}
+
+.imageGallery {
+    width: 100%;
+    text-align: center;
+}
+
+.galleryImage {
+    float: left;
+    width:28%;
+    margin-left: 20px;
+}
+
+.intro {
+    overflow: auto;
+}
